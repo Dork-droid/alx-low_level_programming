@@ -7,12 +7,12 @@
  *
  * Return: Always (0) Success
  */
-int main (void)
+int main(void)
 {
 	int i;
 	char l;
 
-	i = 48; 
+	i = 48;
 	while (i < 58)
 	{
 
