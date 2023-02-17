@@ -9,7 +9,6 @@
 int main(void)
 {
 	char l;
-	
 	l  = 'a';
 	while (l <= 'z')
 	{
